@@ -34,7 +34,7 @@ def merge_sort_two(a , b , arr):
         j+=1
         k+=1    
 
-arr=list(map(int,input().split()))
+arr=[99,77,1,89,96,2,3]
 merge_sort(arr)
 print(arr)
 
